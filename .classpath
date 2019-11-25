@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Practical1/src"/>
+	<classpathentry kind="src" path="Practical2/src"/>
+	<classpathentry kind="src" path="Practical3-4/src"/>
+	<classpathentry kind="src" path="Practical5/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/niall_000/Downloads/JADE-all-4.5.0/JADE-bin-4.5.0/jade/lib/jade.jar"/>
+	<classpathentry kind="output" path="Practical5/bin"/>
+</classpath>
